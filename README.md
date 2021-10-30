@@ -1,15 +1,18 @@
 # SACK ACF GIT
 
-> Contribute to this repository
+> Contribute to this repository.
 
 
-> Please Enter Your Name here.
+> Please Enter Your Name and Admission Numbers here.
 
-1. Seyed Akeel
+> eg :- 1. Name - Admission Number
+ 
 
-2. Yoshitha Bandara Rathnayake
+1. Seyed Akeel - ................
 
-3. T.I.D Silva
+2. Yoshitha Rathnayake - 11629
 
-4. Janitha Wijayawardana
+3. T.I.D Silva - ................
+
+4. Janitha Wijayawardana - ................
 
